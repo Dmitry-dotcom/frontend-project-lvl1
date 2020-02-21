@@ -3,3 +3,4 @@
 ![](https://github.com/Dmitry-dotcom/frontend-project-lvl1/workflows/Node%20CI/badge.svg)
 [![asciicast](https://asciinema.org/a/IrVU8YXi9cI0YdgA2T0uTmmi0.svg)](https://asciinema.org/a/IrVU8YXi9cI0YdgA2T0uTmmi0)
 [![asciicast](https://asciinema.org/a/3jvYA7QmjaCwFdrwDr6zOPSWA.svg)](https://asciinema.org/a/3jvYA7QmjaCwFdrwDr6zOPSWA)
+[![asciicast](https://asciinema.org/a/tFJozhtthI5dEGn966Uu2HzoN.svg)](https://asciinema.org/a/tFJozhtthI5dEGn966Uu2HzoN)
