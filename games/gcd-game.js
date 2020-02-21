@@ -16,6 +16,8 @@ const getGameData = () => {
       return [question, correctAnswer];
     }
   }
+
+  return false;
 };
 
 export default () => engine(taskDescription, getGameData);
