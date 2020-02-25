@@ -20,9 +20,9 @@ const getGameData = () => {
   const b = getRandomNum();
 
   const question = `${a} ${b}`;
-  const correctAnswer = getGcd(a, b);
+  const answer = getGcd(a, b);
 
-  return [question, correctAnswer];
+  return [question, answer];
 };
 
 export default () => engine(taskDescription, getGameData);

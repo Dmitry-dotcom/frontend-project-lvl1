@@ -21,12 +21,12 @@ const getGameData = () => {
   const progression = makeProgression(progStartNum, progStep, progLength);
 
   const progMaskedIndex = getRandomNum(0, progLength - 1);
-  const correctAnswer = progression[progMaskedIndex];
+  const answer = progression[progMaskedIndex];
   progression[progMaskedIndex] = '..';
 
   const question = progression.join(' ');
 
-  return [question, correctAnswer];
+  return [question, answer];
 };
 
 export default () => engine(taskDescription, getGameData);
