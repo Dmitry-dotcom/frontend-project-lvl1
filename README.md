@@ -1,7 +1,4 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/9e8f54ecff124c886b44/maintainability)](https://codeclimate.com/github/Dmitry-dotcom/frontend-project-lvl1/maintainability)
 ![](https://github.com/Dmitry-dotcom/frontend-project-lvl1/workflows/Node%20CI/badge.svg)
-[![asciicast](https://asciinema.org/a/IrVU8YXi9cI0YdgA2T0uTmmi0.svg)](https://asciinema.org/a/IrVU8YXi9cI0YdgA2T0uTmmi0)
-[![asciicast](https://asciinema.org/a/3jvYA7QmjaCwFdrwDr6zOPSWA.svg)](https://asciinema.org/a/3jvYA7QmjaCwFdrwDr6zOPSWA)
-[![asciicast](https://asciinema.org/a/tFJozhtthI5dEGn966Uu2HzoN.svg)](https://asciinema.org/a/tFJozhtthI5dEGn966Uu2HzoN)
-[![asciicast](https://asciinema.org/a/d4uT9Yl2iU1pbTQBadnwRf5CL.svg)](https://asciinema.org/a/d4uT9Yl2iU1pbTQBadnwRf5CL)
-[![asciicast](https://asciinema.org/a/dfAJ7dsLmbiEURss9zLqnzjvS.svg)](https://asciinema.org/a/dfAJ7dsLmbiEURss9zLqnzjvS)
+
+
