@@ -1,14 +1,13 @@
 import getRandomNum from '../utility/randomNum.js';
-import engine from '../src/engine.js';
+import engine from '../engine.js';
 
 const taskDescription = 'Answer "yes" if the number is even, otherwise answer "no".';
 
-const getGameData = () => {
-  const num = getRandomNum();
-  const isEven = num % 2 === 0;
+const isEven = (num) => num % 2 === 0;
 
-  const question = num;
-  const correctAnswer = isEven ? 'yes' : 'no';
+const getGameData = () => {
+  const question = getRandomNum();
+  const correctAnswer = isEven(question) % 2 === 0 ? 'yes' : 'no';
 
   return [question, correctAnswer];
 };

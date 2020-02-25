@@ -1,5 +1,5 @@
 import getRandomNum from '../utility/randomNum.js';
-import engine from '../src/engine.js';
+import engine from '../engine.js';
 
 const taskDescription = 'Answer "yes" if given number is prime. Otherwise answer "no".';
 
