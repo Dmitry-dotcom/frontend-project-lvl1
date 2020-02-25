@@ -1,5 +1,4 @@
-[![Maintainability](https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/maintainability)](https://codeclimate.com/github/codeclimate/codeclimate/maintainability)
-[![Test Coverage](https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/test_coverage)](https://codeclimate.com/github/codeclimate/codeclimate/test_coverage)
+[![Maintainability](https://api.codeclimate.com/v1/badges/9e8f54ecff124c886b44/maintainability)](https://codeclimate.com/github/Dmitry-dotcom/frontend-project-lvl1/maintainability)
 ![](https://github.com/Dmitry-dotcom/frontend-project-lvl1/workflows/Node%20CI/badge.svg)
 [![asciicast](https://asciinema.org/a/IrVU8YXi9cI0YdgA2T0uTmmi0.svg)](https://asciinema.org/a/IrVU8YXi9cI0YdgA2T0uTmmi0)
 [![asciicast](https://asciinema.org/a/3jvYA7QmjaCwFdrwDr6zOPSWA.svg)](https://asciinema.org/a/3jvYA7QmjaCwFdrwDr6zOPSWA)
