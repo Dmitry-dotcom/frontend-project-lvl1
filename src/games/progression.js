@@ -3,19 +3,26 @@ import engine from '../engine.js';
 
 const taskDescription = 'What number is missing in the progression?';
 
-const getGameData = () => {
-  const progression = [];
-  const progressionStep = getRandomNum(1, 10);
-  let n = getRandomNum();
+const makeProgression = (start, step, length) => {
+  const result = [];
 
-  for (let i = 0; i < 10; i += 1) {
-    progression.push(n);
-    n += progressionStep;
+  for (let i = 0; i < length; i += 1) {
+    const num = start + step * i;
+    result.push(num);
   }
 
-  const progressionIndex = getRandomNum(0, 9);
-  const correctAnswer = progression[progressionIndex];
-  progression[progressionIndex] = '..';
+  return result;
+};
+
+const getGameData = () => {
+  const progStartNum = getRandomNum();
+  const progLength = 10;
+  const progStep = getRandomNum(1, progLength);
+  const progression = makeProgression(progStartNum, progStep, progLength);
+
+  const progMaskedIndex = getRandomNum(0, progLength - 1);
+  const correctAnswer = progression[progMaskedIndex];
+  progression[progMaskedIndex] = '..';
 
   const question = progression.join(' ');
 
