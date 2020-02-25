@@ -3,26 +3,25 @@ import engine from '../engine.js';
 
 const taskDescription = 'What is the result of the expression?';
 
+const operations = ['+', '-', '*'];
+
 const getGameData = () => {
   const a = getRandomNum();
   const b = getRandomNum();
-  const operationIndex = getRandomNum(0, 2);
+  const index = getRandomNum(0, operations.length - 1);
 
+  const question = `${a} ${operations[index]} ${b}`;
   let correctAnswer;
-  let question = '';
 
-  switch (operationIndex) {
+  switch (index) {
     case (0):
       correctAnswer = a + b;
-      question = `${a} + ${b}`;
       break;
     case (1):
       correctAnswer = a - b;
-      question = `${a} - ${b}`;
       break;
     case (2):
       correctAnswer = a * b;
-      question = `${a} * ${b}`;
       break;
     default:
       break;
