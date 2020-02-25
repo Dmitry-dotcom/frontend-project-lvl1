@@ -12,8 +12,9 @@ This is a collection of five min-games.
 
 ## Install Brain games
 ```
-npm -g brain-games-df
-```
+npm -g install brain-games-df
+[![asciicast](https://asciinema.org/a/tzh6QggpvTAo065dc9qngla2e.svg)](https://asciinema.org/a/tzh6QggpvTAo065dc9qngla2e)```
+
 ## Even num
 Answer "yes" if the number is even, otherwise answer "no".
 
