@@ -1,6 +1,6 @@
 {
   "name": "brain-games-df",
-  "version": "1.5.6",
+  "version": "1.5.7",
   "main": "src/engine.js",
   "type": "module",
   "bin": {
