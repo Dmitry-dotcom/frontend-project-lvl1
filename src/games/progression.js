@@ -15,18 +15,18 @@ const makeProgression = (start, step, length) => {
 };
 
 const getGameData = () => {
-  const progStartNum = getRandomNum();
-  const progLength = 10;
-  const progStep = getRandomNum(1, progLength);
-  const progression = makeProgression(progStartNum, progStep, progLength);
+  const progressionStart = getRandomNum();
+  const progressionLength = 10;
+  const progressionStep = getRandomNum(1, progressionLength);
+  const progression = makeProgression(progressionStart, progressionStep, progressionLength);
 
-  const progMaskedIndex = getRandomNum(0, progLength - 1);
-  const answer = progression[progMaskedIndex];
-  progression[progMaskedIndex] = '..';
+  const progressionMaskedIndex = getRandomNum(0, progressionLength - 1);
+  const answer = progression[progressionMaskedIndex];
+  progression[progressionMaskedIndex] = '..';
 
   const question = progression.join(' ');
 
-  return [question, answer];
+  return [question, String(answer)];
 };
 
 export default () => engine(taskDescription, getGameData);

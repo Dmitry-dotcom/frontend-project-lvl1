@@ -9,25 +9,26 @@ const getGameData = () => {
   const a = getRandomNum();
   const b = getRandomNum();
   const index = getRandomNum(0, operations.length - 1);
+  const operation = operations[index];
 
-  const question = `${a} ${operations[index]} ${b}`;
+  const question = `${a} ${operation} ${b}`;
   let answer;
 
-  switch (index) {
-    case (0):
+  switch (operation) {
+    case ('+'):
       answer = a + b;
       break;
-    case (1):
+    case ('-'):
       answer = a - b;
       break;
-    case (2):
+    case ('*'):
       answer = a * b;
       break;
     default:
       break;
   }
 
-  return [question, answer];
+  return [question, String(answer)];
 };
 
 export default () => engine(taskDescription, getGameData);

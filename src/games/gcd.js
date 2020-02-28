@@ -22,7 +22,7 @@ const getGameData = () => {
   const question = `${a} ${b}`;
   const answer = getGcd(a, b);
 
-  return [question, answer];
+  return [question, String(answer)];
 };
 
 export default () => engine(taskDescription, getGameData);
