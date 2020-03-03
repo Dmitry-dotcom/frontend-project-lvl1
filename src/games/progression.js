@@ -15,14 +15,14 @@ const makeProgression = (start, step, length) => {
 };
 
 const getGameData = () => {
-  const progressionStart = getRandomNum();
-  const progressionLength = 10;
-  const progressionStep = getRandomNum(1, progressionLength);
-  const progression = makeProgression(progressionStart, progressionStep, progressionLength);
+  const start = getRandomNum();
+  const length = 10;
+  const step = getRandomNum(1, 10);
+  const progression = makeProgression(start, step, length);
 
-  const progressionMaskedIndex = getRandomNum(0, progressionLength - 1);
-  const answer = progression[progressionMaskedIndex];
-  progression[progressionMaskedIndex] = '..';
+  const maskedIndex = getRandomNum(0, length - 1);
+  const answer = progression[maskedIndex];
+  progression[maskedIndex] = '..';
 
   const question = progression.join(' ');
 
