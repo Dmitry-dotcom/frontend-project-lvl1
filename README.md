@@ -1,14 +1,14 @@
-[![Maintainability](https://api.codeclimate.com/v1/badges/9e8f54ecff124c886b44/maintainability)](https://codeclimate.com/github/Dmitry-dotcom/frontend-project-lvl1/maintainability)
-![](https://github.com/Dmitry-dotcom/frontend-project-lvl1/workflows/Node%20CI/badge.svg)
+[![Maintainability](https://api.codeclimate.com/v1/badges/9e8f54ecff124c886b44/maintainability)](https://codeclimate.com/github/DmitryForsilov/frontend-project-lvl1/maintainability)
+![](https://github.com/DmitryForsilov/frontend-project-lvl1/workflows/Node%20CI/badge.svg)
 
 # Brain Games
 
 This is a collection of five min-games.
- - [Even num](https://github.com/Dmitry-dotcom/frontend-project-lvl1/#even-num)
- - [Calculate expression](https://github.com/Dmitry-dotcom/frontend-project-lvl1/#calculate-expression)
- - [Greatest common divisor](https://github.com/Dmitry-dotcom/frontend-project-lvl1/#greatest-common-divisor)
- - [Prime num](https://github.com/Dmitry-dotcom/frontend-project-lvl1/#prime-num)
- - [Progression](https://github.com/Dmitry-dotcom/frontend-project-lvl1/#progression)
+ - [Even num](https://github.com/DmitryForsilov/frontend-project-lvl1/#even-num)
+ - [Calculate expression](https://github.com/DmitryForsilov/frontend-project-lvl1/#calculate-expression)
+ - [Greatest common divisor](https://github.com/DmitryForsilov/frontend-project-lvl1/#greatest-common-divisor)
+ - [Prime num](https://github.com/DmitryForsilov/frontend-project-lvl1/#prime-num)
+ - [Progression](https://github.com/DmitryForsilov/frontend-project-lvl1/#progression)
 
 ## Install Brain games
 ```

@@ -20,14 +20,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Dmitry-dotcom/frontend-project-lvl1.git"
+    "url": "git+https://github.com/DmitryForsilov/frontend-project-lvl1.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Dmitry-dotcom/frontend-project-lvl1/issues"
+    "url": "https://github.com/DmitryForsilov/frontend-project-lvl1/issues"
   },
-  "homepage": "https://github.com/Dmitry-dotcom/frontend-project-lvl1#readme",
+  "homepage": "https://github.com/DmitryForsilov/frontend-project-lvl1#readme",
   "description": "",
   "dependencies": {
     "readline-sync": "^1.4.10"
