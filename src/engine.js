@@ -2,9 +2,8 @@ import readlineSync from 'readline-sync';
 
 const roundsCount = 3;
 
-export default (taskDescription, getGameData) => {
-  console.log('Welcome to the Brain Games!');
-  const name = readlineSync.question('May I have your name? ');
+// eslint-disable-next-line consistent-return
+const engine = (name, taskDescription, getGameData) => {
   console.log(`Hello, ${name}!`);
   console.log(taskDescription);
 
@@ -18,11 +17,13 @@ export default (taskDescription, getGameData) => {
       console.log('Correct!');
     } else {
       console.log(`"${userAnswer}" is wrong answer ;(. Correct answer was "${answer}".`);
-      console.log(`Let's try again, ${name}!`);
+      console.log(`Let's try again, ${name}!\n`);
 
-      return;
+      return engine(name, taskDescription, getGameData);
     }
   }
 
   console.log(`Congratulations, ${name}!`);
 };
+
+export default engine;

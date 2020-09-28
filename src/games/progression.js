@@ -8,6 +8,7 @@ const makeProgression = (start, step, length) => {
 
   for (let i = 0; i < length; i += 1) {
     const num = start + step * i;
+
     result.push(num);
   }
 
@@ -29,4 +30,4 @@ const getGameData = () => {
   return [question, String(answer)];
 };
 
-export default () => engine(taskDescription, getGameData);
+export default (name) => engine(name, taskDescription, getGameData);

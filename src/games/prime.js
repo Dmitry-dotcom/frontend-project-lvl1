@@ -20,4 +20,4 @@ const getGameData = () => {
   return [question, answer];
 };
 
-export default () => engine(taskDescription, getGameData);
+export default (name) => engine(name, taskDescription, getGameData);

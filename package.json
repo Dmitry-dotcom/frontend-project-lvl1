@@ -1,7 +1,7 @@
 {
   "name": "brain-games-df",
-  "version": "0.0.6",
-  "main": "src/engine.js",
+  "version": "0.0.7",
+  "main": "src/index.js",
   "type": "module",
   "bin": {
     "brain-even": "src/bin/brain-even.js",
@@ -30,6 +30,7 @@
   "homepage": "https://github.com/DmitryForsilov/frontend-project-lvl1#readme",
   "description": "",
   "dependencies": {
+    "inquirer": "^7.3.3",
     "readline-sync": "^1.4.10"
   },
   "devDependencies": {
