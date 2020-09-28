@@ -1,14 +1,10 @@
 {
   "name": "brain-games-df",
-  "version": "0.0.7",
+  "version": "0.7.1",
   "main": "src/index.js",
   "type": "module",
   "bin": {
-    "brain-even": "src/bin/brain-even.js",
-    "brain-calc": "src/bin/brain-calc.js",
-    "brain-gcd": "src/bin/brain-gcd.js",
-    "brain-progression": "src/bin/brain-progression.js",
-    "brain-prime": "src/bin/brain-prime.js"
+    "brain-games": "src/bin/brain-games.js"
   },
   "keywords": [
     "logic",
