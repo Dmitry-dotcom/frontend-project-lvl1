@@ -3,64 +3,56 @@
 
 # Brain Games
 
-This is a collection of five min-games.
+This is a collection of five mini-games running from shell.
+
+The project was reviewed by Hexlet.
+
+Demos:
  - [Even num](https://github.com/DmitryForsilov/frontend-project-lvl1/#even-num)
- - [Calculate expression](https://github.com/DmitryForsilov/frontend-project-lvl1/#calculate-expression)
+ - [Calculation](https://github.com/DmitryForsilov/frontend-project-lvl1/#calculation)
  - [Greatest common divisor](https://github.com/DmitryForsilov/frontend-project-lvl1/#greatest-common-divisor)
  - [Prime num](https://github.com/DmitryForsilov/frontend-project-lvl1/#prime-num)
  - [Progression](https://github.com/DmitryForsilov/frontend-project-lvl1/#progression)
+ 
+ ## Used in project:
+- **Javascript**
+- **inquirer**
+- **readline-sync**
+- **eslint**
 
-## Install Brain games
+## Install and start Brain games
+### First way:
+To install:
+
+Clone repository.
+
+To start type in shell from cloned repository:
 ```
-npm -g install brain-games-df
+make start
 ```
 
-## Even num
-Answer "yes" if the number is even, otherwise answer "no".
+### Second way:
+To install:
+```
+npm i -g brain-games-df
+```
 
-Start the game:
+To start type in shell from everywhere:
 ```
-brain-even
+brain-games
 ```
-### Demo
-[![asciicast](https://asciinema.org/a/SoFrIkeu14dlagb1Pks5ypoAY.svg)](https://asciinema.org/a/SoFrIkeu14dlagb1Pks5ypoAY)
+## Demos
+### Even num
 
-## Calculate expression
-What is the result of the expression?
 
-Start the game:
-```
-brain-calc
-```
-### Demo
+### Calculation
 [![asciicast](https://asciinema.org/a/aTPqwaIVAENSUAma7XzuiEI8B.svg)](https://asciinema.org/a/aTPqwaIVAENSUAma7XzuiEI8B)
 
-## Greatest common divisor
-Find the greatest common divisor of given numbers.
-
-Start the game:
-```
-brain-gcd
-```
-### Demo
+### Greatest common divisor
 [![asciicast](https://asciinema.org/a/UqK2yUyMWg7XPmWlYjssuJcud.svg)](https://asciinema.org/a/UqK2yUyMWg7XPmWlYjssuJcud)
 
-## Prime num
-Answer "yes" if given number is prime. Otherwise answer "no".
-
-Start the game:
-```
-brain-prime
-```
-### Demo
+### Prime num
 [![asciicast](https://asciinema.org/a/1o744m9s5CdzT7HmzAZ6ieLqs.svg)](https://asciinema.org/a/1o744m9s5CdzT7HmzAZ6ieLqs)
 
-## Progression
-What number is missing in the progression?
-
-Start the game:
-```
-brain-progression
-```
-### Demo
+### Progression
 [![asciicast](https://asciinema.org/a/3TzGp3GnbaLi5ZiH6jPuazKtN.svg)](https://asciinema.org/a/3TzGp3GnbaLi5ZiH6jPuazKtN)
