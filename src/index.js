@@ -14,7 +14,7 @@ const questions = [
     choices: [
       'Calculation',
       'Even num',
-      'Greater common divisor',
+      'Greatest common divisor',
       'Prime num',
       'Progression',
     ],

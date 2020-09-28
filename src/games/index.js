@@ -8,6 +8,6 @@ export default {
   calculation: (name) => calcGame(name),
   progression: (name) => progressionGame(name),
   'even num': (name) => evenGame(name),
-  'greater common divisor': (name) => gcdGame(name),
+  'greatest common divisor': (name) => gcdGame(name),
   'prime num': (name) => primeGame(name),
 };
