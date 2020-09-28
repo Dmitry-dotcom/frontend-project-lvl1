@@ -13,14 +13,8 @@ Demos:
  - [Greatest common divisor](https://github.com/DmitryForsilov/frontend-project-lvl1/#greatest-common-divisor)
  - [Prime num](https://github.com/DmitryForsilov/frontend-project-lvl1/#prime-num)
  - [Progression](https://github.com/DmitryForsilov/frontend-project-lvl1/#progression)
- 
- ## Used in project:
-- **Javascript**
-- **inquirer**
-- **readline-sync**
-- **eslint**
 
-## Install and start Brain games
+## Install and start
 ### First way:
 To install:
 
@@ -41,6 +35,12 @@ To start type in shell from everywhere:
 ```
 brain-games
 ```
+## Used in project:
+- **Javascript**
+- **inquirer**
+- **readline-sync**
+- **eslint**
+
 ## Demos
 ### Even num
 
