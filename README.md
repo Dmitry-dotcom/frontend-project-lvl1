@@ -46,13 +46,13 @@ brain-games
 [<img src="./asciinema_svg/even.svg">](https://asciinema.org/a/wPWtuRbMpo3z9VNmxMMyaGRAM)
 
 ### Calculation
-[![asciicast](https://asciinema.org/a/aTPqwaIVAENSUAma7XzuiEI8B.svg)](https://asciinema.org/a/aTPqwaIVAENSUAma7XzuiEI8B)
+[<img src="./asciinema_svg/calc.svg">](https://asciinema.org/a/FmdkpfPZtAi4P92JrjXdfQt1t)
 
 ### Greatest common divisor
-[![asciicast](https://asciinema.org/a/UqK2yUyMWg7XPmWlYjssuJcud.svg)](https://asciinema.org/a/UqK2yUyMWg7XPmWlYjssuJcud)
+[<img src="./asciinema_svg/gcd.svg">](https://asciinema.org/a/euzFXvAO1JHZUlRhGhy8sVKig)
 
 ### Prime num
-[![asciicast](https://asciinema.org/a/1o744m9s5CdzT7HmzAZ6ieLqs.svg)](https://asciinema.org/a/1o744m9s5CdzT7HmzAZ6ieLqs)
+[<img src="./asciinema_svg/prime.svg">](https://asciinema.org/a/DsxT8Tw4g5gREaFi1kurdmf0j)
 
 ### Progression
-[![asciicast](https://asciinema.org/a/3TzGp3GnbaLi5ZiH6jPuazKtN.svg)](https://asciinema.org/a/3TzGp3GnbaLi5ZiH6jPuazKtN)
+[<img src="./asciinema_svg/progression.svg">](https://asciinema.org/a/dJBKkGkq33UredBX6Ss1VJQMu)
