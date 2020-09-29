@@ -1,4 +1,4 @@
-[![Maintainability](https://api.codeclimate.com/v1/badges/01663d79cde6a894c4eb/maintainability)](https://codeclimate.com/github/DmitryForsilov/brain-games/maintainability)
+[![Maintainability](https://api.codeclimate.com/v1/badges/544f4e3b7d912745630e/maintainability)](https://codeclimate.com/github/DmitryForsilov/brain-games/maintainability)
 ![](https://github.com/DmitryForsilov/brain-games/workflows/Node%20CI/badge.svg)
 
 # Brain Games
