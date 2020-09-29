@@ -43,7 +43,7 @@ brain-games
 
 ## Demos
 ### Even num
-[<img src="./asciinema_svg/even.svg">](https://asciinema.org/a/wPWtuRbMpo3z9VNmxMMyaGRAM)
+<img width="700" src="./asciinema_svg/even.svg">
 
 ### Calculation
 [<img src="./asciinema_svg/calc.svg">](https://asciinema.org/a/FmdkpfPZtAi4P92JrjXdfQt1t)
