@@ -16,14 +16,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DmitryForsilov/frontend-project-lvl1.git"
+    "url": "git+https://github.com/DmitryForsilov/brain-games.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/DmitryForsilov/frontend-project-lvl1/issues"
+    "url": "https://github.com/DmitryForsilov/brain-games/issues"
   },
-  "homepage": "https://github.com/DmitryForsilov/frontend-project-lvl1#readme",
+  "homepage": "https://github.com/DmitryForsilov/brain-games#readme",
   "description": "",
   "dependencies": {
     "inquirer": "^7.3.3",
