@@ -46,13 +46,13 @@ brain-games
 <img width="700" src="./asciinema_svg/even.svg">
 
 ### Calculation
-[<img src="./asciinema_svg/calc.svg">](https://asciinema.org/a/FmdkpfPZtAi4P92JrjXdfQt1t)
+<img width="700" src="./asciinema_svg/calc.svg">
 
 ### Greatest common divisor
-[<img src="./asciinema_svg/gcd.svg">](https://asciinema.org/a/euzFXvAO1JHZUlRhGhy8sVKig)
+<img width="700" src="./asciinema_svg/gcd.svg">
 
 ### Prime num
-[<img src="./asciinema_svg/prime.svg">](https://asciinema.org/a/DsxT8Tw4g5gREaFi1kurdmf0j)
+<img width="700" src="./asciinema_svg/prime.svg">
 
 ### Progression
-[<img src="./asciinema_svg/progression.svg">](https://asciinema.org/a/dJBKkGkq33UredBX6Ss1VJQMu)
+<img width="700" src="./asciinema_svg/progression.svg">
