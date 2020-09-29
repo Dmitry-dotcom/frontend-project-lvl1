@@ -1,5 +1,5 @@
-[![Maintainability](https://api.codeclimate.com/v1/badges/01663d79cde6a894c4eb/maintainability)](https://codeclimate.com/github/DmitryForsilov/frontend-project-lvl1/maintainability)
-![](https://github.com/DmitryForsilov/frontend-project-lvl1/workflows/Node%20CI/badge.svg)
+[![Maintainability](https://api.codeclimate.com/v1/badges/01663d79cde6a894c4eb/maintainability)](https://codeclimate.com/github/DmitryForsilov/brain-games/maintainability)
+![](https://github.com/DmitryForsilov/brain-games/workflows/Node%20CI/badge.svg)
 
 # Brain Games
 
@@ -8,11 +8,11 @@ This is a collection of five mini-games running from shell.
 The project was reviewed by Hexlet.
 
 Demos:
- - [Even num](https://github.com/DmitryForsilov/frontend-project-lvl1/#even-num)
- - [Calculation](https://github.com/DmitryForsilov/frontend-project-lvl1/#calculation)
- - [Greatest common divisor](https://github.com/DmitryForsilov/frontend-project-lvl1/#greatest-common-divisor)
- - [Prime num](https://github.com/DmitryForsilov/frontend-project-lvl1/#prime-num)
- - [Progression](https://github.com/DmitryForsilov/frontend-project-lvl1/#progression)
+ - [Even num](https://github.com/DmitryForsilov/brain-games/#even-num)
+ - [Calculation](https://github.com/DmitryForsilov/brain-games/#calculation)
+ - [Greatest common divisor](https://github.com/DmitryForsilov/brain-games/#greatest-common-divisor)
+ - [Prime num](https://github.com/DmitryForsilov/brain-games/#prime-num)
+ - [Progression](https://github.com/DmitryForsilov/brain-games/#progression)
 
 ## Install and start
 ### First way:
