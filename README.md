@@ -3,7 +3,7 @@
 
 # Brain Games
 
-This is a collection of five mini-games running from shell.
+This is a collection of five mini-games running from terminal.
 
 The project was reviewed by Hexlet.
 
@@ -14,24 +14,12 @@ Demos:
  - [Prime num](https://github.com/DmitryForsilov/brain-games/#prime-num)
  - [Progression](https://github.com/DmitryForsilov/brain-games/#progression)
 
-## Install and start
-### First way:
-To install:
-
-Clone repository.
-
-To start type in shell from cloned repository:
-```
-make start
-```
-
-### Second way:
-To install:
+## Install
 ```
 npm i -g brain-games-df
 ```
 
-To start type in shell from everywhere:
+## Usage
 ```
 brain-games
 ```
