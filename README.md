@@ -24,7 +24,6 @@ npm i -g brain-games-df
 brain-games
 ```
 ## Used in project:
-- **Javascript**
 - **inquirer**
 - **readline-sync**
 - **eslint**
