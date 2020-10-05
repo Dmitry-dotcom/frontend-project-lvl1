@@ -5,7 +5,7 @@
 
 This is a collection of five mini-games running from terminal.
 
-The project was reviewed by Hexlet.
+This project was reviewed by Hexlet.
 
 Demos:
  - [Even num](https://github.com/DmitryForsilov/brain-games/#even-num)
